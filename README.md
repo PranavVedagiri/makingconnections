@@ -12,7 +12,7 @@ The UW Women’s Center Making Connections program serves Seattle area high scho
 ## Technology Decisions
 
 ### Stack
-The stack that we chose consisted of the regular wordpress stack which includes PHP, HTML, and CSS. The reason why we chose this stack is due to the fact that we wanted to make it easier for the stakeholders to continue to make changes the website many years after we passed the website over to them. We wanted to ensure that the staff of Making Connections would be able to continue to update and keep the website running which requires very little technological aptitude.
+The stack that we chose consisted of the regular wordpress stack which includes PHP, HTML, and CSS. The reason why we chose this stack is due to the fact that we wanted to make it easier for the stakeholders to continue to make changes to the website many years after we passed the website over to them. We wanted to ensure that the staff of Making Connections required very little technological aptitude in order to continue to update the website and keep it running.
 
 ## Authors
 
