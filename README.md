@@ -7,7 +7,7 @@ The UW Women’s Center Making Connections program serves Seattle area high scho
 * Alumni Directory w/ Filtering: wp-content > plugins > ultimate-member
 * Resources Page: wp-content > plugins > simple-job-board
 * Discussion Page: wp-content > plugins > wp-discussion-board
-* Video-Demo: video > makingconnectionsvideo
+* Video-Demo: video > makingconnectionsvideo.mov
 
 ## Technology Decisions
 
